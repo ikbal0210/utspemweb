@@ -1,0 +1,11 @@
+NAME	: Ikbal Maulana Yusuf
+NIM	: 22416255201072
+CLASS	: IF22G
+
+JAWABAN UTS
+1. Framework dalam pengembangan aplikasi adalah kerangka kerja yang menyediakan struktur dan alat untuk mempermudah proses pengembangan perangkat lunak. Ini mencakup aturan, konvensi, dan komponen-komponen siap pakai yang memungkinkan pengembang fokus pada logika bisnis aplikasi tanpa harus membangun semuanya dari awal. Dengan menggunakan framework, pengembang dapat menghemat waktu, mengurangi kesalahan, dan meningkatkan produktivitas dalam pembangunan aplikasi.
+2. Tema Proyek yang sedang di garap : Desa
+Nama Anggota Proyek	: Ichal Setyo (Pembuatan Database)
+				  Asmi (Menyusun Laporan Angket)
+				  Ikbal (Membuat Codingan & use case diagram)
+Permasalahannya adalah : Belum ada System Aplikasi yang dibuat untuk mempermudah masyarakat dalam mengakses laporan data kependudukan. Kami akan memberi solusinya dengan membuatkan System Aplikasi My Homebase, agar masyarakat Desa Anggadita dapat dengan mudah membuat data kependudukan.
